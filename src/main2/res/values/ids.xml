@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="reg" type="id" />
+    <item name="clk" type="id" />
+    <item name="email" type="id" />
+</resources>
